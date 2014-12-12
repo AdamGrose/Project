@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ast1.png</file>
+        <file>ast2.png</file>
+        <file>AsteroidRun.png</file>
+        <file>Bullet.png</file>
+        <file>playerShip.png</file>
+        <file>projectTitle.jpg</file>
+        <file>ScoreImage.jpg</file>
+        <file>ast3.png</file>
+        <file>StarPic.png</file>
+    </qresource>
+</RCC>
